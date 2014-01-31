@@ -1,1 +1,49 @@
 
+* {
+  font-family: helvetica;
+}
+.hero {
+  position: relative;
+  width: 1170px;
+  /*display: block;*/
+  /*margin: 0 auto;*/
+}
+
+h1 {
+position: absolute;
+top: 0px;
+right: 50px;
+font-size: 100px;
+
+}
+
+body {
+  margin: 0;
+}
+
+.details  {
+  display: inline-block;
+  width: 300px;
+}
+
+.text {
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+.images {
+  width: 700px;
+  margin: 0 auto;
+  padding-right: 0px;
+
+}
+
+.thumbnail {
+  display: inline-block;
+  vertical-align: top;
+  border: 1px gray;
+  padding: 5px;
+  width: 200px;
+
+}
